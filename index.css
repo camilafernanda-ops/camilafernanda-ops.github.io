@@ -1,0 +1,38 @@
+p{
+    text-align: center;
+    color: blue;
+    font-family: cursive;
+    margin-left: 100px;
+    margin-right: 100px;;
+}
+
+h1,h2,h3,h4,h5{
+    text-align: center;
+    color: darkblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-image:url('fundo.png');
+                background-position: top;
+}
+
+table{
+    border: 2px solid blue;
+    width: 50%;
+    align-items: center;
+    
+}
+
+td{
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    background-color: cadetblue;
+}
+
+
+
+  
+
+
